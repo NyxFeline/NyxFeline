@@ -13,6 +13,7 @@
 <img src="https://play.pokemonshowdown.com/sprites/ani/liepard.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/absol.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/darkrai.gif" height="64" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar-gmax.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/weavile.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/meowscarada.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/yveltal.gif" height="64" />
@@ -48,7 +49,7 @@ q1: ───────────⊕────[M]      →  |00⟩ + |11�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,flask,java,androidstudio,docker,git,linux,godot,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,flask,java,androidstudio,docker,git,godot,postgres&theme=dark" />
 
 <br/><br/>
 
@@ -68,17 +69,6 @@ q1: ───────────⊕────[M]      →  |00⟩ + |11�
 | ⚡ **[Pikachu New Version](https://github.com/NyxFeline/Pikachu_New_Version)** | Android Pikachu matching game, 19 levels, retro pixel style | `Java` `Android Studio` |
 | 🐾 **[Portfolio](https://github.com/NyxFeline/my-portfolio)** ([live](https://nyxfeline-dothieuvy.netlify.app/)) | Dark neon portfolio in vanilla HTML/CSS/JS with custom cursor, scroll reveal and parallax | `HTML` `CSS` `JavaScript` |
 
-## 🌑 Shadow Party
-
-| Pokémon | Role in my universe |
-|---|---|
-| 🌙 **Umbreon** | The moonlit main. Calm, tanky, never panics during an outage |
-| 🐈‍⬛ **Liepard** | Stealth and sneaky exploits. The security-minded one |
-| 🔔 **Absol** | Senses disaster before it happens. My linter |
-| 👁️ **Darkrai** | Nightmares and 3AM debugging sessions |
-| ❄️ **Weavile** | Fast and sharp, like a good refactor |
-| 🐱 **Meowscarada** | Showy, tricky, plays with illusions: front-end magic |
-| 🦅 **Yveltal** | Cosmic endgame boss, the final project |
 
 ## 🚀 Flight Plan
 
