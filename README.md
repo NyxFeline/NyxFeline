@@ -1,21 +1,21 @@
-<!-- ===== HEADER: bầu trời sao ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05010f,40:2b1055,75:7597de,100:05010f&height=240&section=header&text=NyxFeline&fontSize=64&fontColor=e0e7ff&animation=twinkling&fontAlignY=38&desc=ConCaTapBoi%20%E2%80%A2%20Night%20Cat%20in%20Superposition&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05010f,40:2b1055,75:5b3fa8,100:05010f&height=240&section=header&text=NyxFeline&fontSize=64&fontColor=e0e7ff&animation=twinkling&fontAlignY=38&desc=ConCaTapBoi%20%E2%80%A2%20Night%20Cat%20in%20Superposition&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Gazing+at+stars+%E2%9C%A8+Building+worlds+%F0%9F%8E%AE;Exploring+quantum+computing+%E2%9A%9B%EF%B8%8F;Fullstack+%7C+Game+Dev+%7C+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Catching+them+all+in+the+cosmos+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=660&lines=Stargazer+%7C+Night+Cat+in+Superposition;Fullstack+%7C+Game+Dev+%7C+Cybersecurity;Dark-type+trainer+in+a+quantum+universe;Collapsing+the+wave+function+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Pokémon vũ trụ -->
-<img src="https://play.pokemonshowdown.com/sprites/ani/solrock.gif" height="64" />
-<img src="https://play.pokemonshowdown.com/sprites/ani/lunatone.gif" height="64" />
-<img src="https://play.pokemonshowdown.com/sprites/ani/deoxys.gif" height="64" />
-<img src="https://play.pokemonshowdown.com/sprites/ani/jirachi.gif" height="64" />
-<img src="https://play.pokemonshowdown.com/sprites/ani/alakazam.gif" height="64" />
+<!-- Dark-type party -->
 <img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" height="64" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/liepard.gif" height="64" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/absol.gif" height="64" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/darkrai.gif" height="64" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/weavile.gif" height="64" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/meowscarada.gif" height="64" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/yveltal.gif" height="64" />
 
 </div>
 
@@ -25,54 +25,68 @@
 
 ```python
 # Schrödinger's Developer
-from quantum import superposition
-
 class NyxFeline:
-    state = superposition(
-        "writing clean code",   # |0⟩
-        "debugging at 3AM",     # |1⟩
-    )
-    stack = ["Frontend", "Backend", "Game Dev", "Cybersecurity"]
-    guild = "Nyx 🌙 + Feline 🐈  =  night-cat"
-    favorite_region = "Space-type Pokémon (Deoxys, Jirachi, Solgaleo, Lunala)"
+    type_      = "Dark"                      # 🌑 night-cat trainer
+    state      = "|writing clean code⟩ + |debugging at 3AM⟩"   # superposition
+    stack      = ["Frontend", "Backend", "Game Dev", "Cybersecurity"]
+    obsessions = ["Astronomy", "Quantum computing", "Dark-type Pokémon"]
 
     def observe(self):
-        return "bug found" if self.state == 1 else "feature shipped"  # wave function collapsed
+        # measuring the state collapses it
+        return "bug found" if self.state.endswith("3AM⟩") else "feature shipped"
 ```
 
-<br/>
+```
+        Bell state, the only relationship I trust
+
+q0: ───[H]────●────[M]
+               │
+q1: ───────────⊕────[M]      →  |00⟩ + |11⟩  (entangled with coffee)
+```
 
 ## 🔭 Mission Log
 
-- 🌌 Fascinated by astronomy: nebulae, black holes, the night sky
-- ⚛️ Learning the basics of quantum computing (qubits, gates, superposition)
-- 🎮 Building games, from pixel-art to physics puzzles
+- 🌌 Astronomy fan: nebulae, black holes, the night sky
+- ⚛️ Learning quantum computing basics (qubits, gates, superposition, entanglement)
+- 🎮 Building browser and mobile games, from 1-bit jam entries to pixel-art adventures
 - 🛡️ Studying cybersecurity (CTF, web security, pentest basics)
-- 🌐 Going fullstack: from UI down to the API and database
+- 🌐 Fullstack: from UI down to API and database
+
+## 🌑 Shadow Party
+
+| Pokémon | Role in my universe |
+|---|---|
+| 🌙 **Umbreon** | The moonlit main. Calm, tanky, never panics during an outage |
+| 🐈‍⬛ **Liepard** | Stealth and sneaky exploits. The security-minded one |
+| 🔔 **Absol** | Senses disaster before it happens. My linter |
+| 👁️ **Darkrai** | Nightmares and 3AM debugging sessions |
+| ❄️ **Weavile** | Fast and sharp, like a good refactor |
+| 🐱 **Meowscarada** | Showy, tricky, plays with illusions: front-end magic |
+| 🦅 **Yveltal** | Cosmic endgame boss, the final project |
 
 ## 🛰️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,flask,docker,git,linux&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=godot,unity,cs,cpp,postgres,mongodb,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,flask,java,androidstudio,docker,git,linux,godot,postgres&theme=dark" />
 
 <br/><br/>
 
-![Quantum](https://img.shields.io/badge/Qiskit-learning-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-Game%20Dev-8A2BE2?style=for-the-badge)
-![Security](https://img.shields.io/badge/Cybersecurity-in%20progress-0b0c2a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Phaser](https://img.shields.io/badge/Phaser_3-Game_Dev-8A2BE2?style=for-the-badge)
+![Qiskit](https://img.shields.io/badge/Qiskit-learning-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Security](https://img.shields.io/badge/Cybersecurity-in_progress-0b0c2a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
 </div>
 
 ## 🪐 Featured Missions
 
-| Mission | Mô tả | Stack |
+| Mission | Description | Stack |
 |---|---|---|
-| 🚀 **[Tên project 1](https://github.com/NyxFeline/repo-1)** | Mô tả ngắn | `React` `Node.js` |
-| 🎮 **[Tên game 1](https://github.com/NyxFeline/repo-2)** | Mô tả ngắn | `Godot` / `Phaser` |
-| 🛡️ **[Tên project 3](https://github.com/NyxFeline/repo-3)** | Mô tả ngắn | `Python` |
+| 🌙 **[Somnia Hotel](https://github.com/NyxFeline/somnia_hotel)** ([play](https://somniahotel.netlify.app/)) | 1-bit dream-hotel management game for 1Bit Game Jam (theme: Sleep). Strictly 2 colors, Bayer dithering, 3 endings, EN/VI | `Phaser 3` `Vite` `JavaScript` |
+| ⚙️ **[Assembly Panic](https://github.com/NyxFeline/assembly-panic)** ([play](https://assembly-panic.netlify.app/)) | Arcade game where you are the glitching machine: build robots by key sequence while the controls randomly reverse | `Phaser 3` `Vite` `JavaScript` |
+| 🎭 **[Costume Caper](https://github.com/NyxFeline/costume-caper)** ([play](https://costume-caper.netlify.app/)) | Pixel-art stealth adventure in a haunted mansion: swap disguises, collect keys, steal back the mask | `Phaser` `Vite` `Tiled` `Web Audio` |
+| ⚡ **[Pikachu New Version](https://github.com/NyxFeline/Pikachu_New_Version)** | Android Pikachu matching game, 19 levels, retro pixel style | `Java` `Android Studio` |
+| 🐾 **[Portfolio](https://github.com/NyxFeline/my-portfolio)** ([live](https://nyxfeline-dothieuvy.netlify.app/)) | Dark neon portfolio in vanilla HTML/CSS/JS with custom cursor, scroll reveal and parallax | `HTML` `CSS` `JavaScript` |
 
 ## 📡 Mission Telemetry
 
@@ -87,8 +101,7 @@ class NyxFeline:
 
 <br/><br/>
 
-<!-- Con rắn ăn contribution (cần workflow bên dưới) -->
-<img src="https://raw.githubusercontent.com/NyxFeline/NyxFeline/output/github-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/NyxFeline/NyxFeline/output/github-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
@@ -97,7 +110,7 @@ class NyxFeline:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-NyxFeline-181717?style=for-the-badge&logo=github)](https://github.com/NyxFeline)
-<!-- Thêm: Discord / Email / Portfolio -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-nyxfeline-7b2fff?style=for-the-badge&logo=netlify&logoColor=white)](https://nyxfeline-dothieuvy.netlify.app/)
 
 <br/>
 
