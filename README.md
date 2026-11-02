@@ -26,7 +26,7 @@
 ```python
 # Schrödinger's Developer
 class NyxFeline:
-    type_      = "Dark"                      # 🌑 night-cat trainer
+    type_      = "Dark"                      # night-cat trainer
     state      = "|writing clean code⟩ + |debugging at 3AM⟩"   # superposition
     stack      = ["Frontend", "Backend", "Game Dev", "Cybersecurity"]
     obsessions = ["Astronomy", "Quantum computing", "Dark-type Pokémon"]
@@ -43,26 +43,6 @@ q0: ───[H]────●────[M]
                │
 q1: ───────────⊕────[M]      →  |00⟩ + |11⟩  (entangled with coffee)
 ```
-
-## 🔭 Mission Log
-
-- 🌌 Astronomy fan: nebulae, black holes, the night sky
-- ⚛️ Learning quantum computing basics (qubits, gates, superposition, entanglement)
-- 🎮 Building browser and mobile games, from 1-bit jam entries to pixel-art adventures
-- 🛡️ Studying cybersecurity (CTF, web security, pentest basics)
-- 🌐 Fullstack: from UI down to API and database
-
-## 🌑 Shadow Party
-
-| Pokémon | Role in my universe |
-|---|---|
-| 🌙 **Umbreon** | The moonlit main. Calm, tanky, never panics during an outage |
-| 🐈‍⬛ **Liepard** | Stealth and sneaky exploits. The security-minded one |
-| 🔔 **Absol** | Senses disaster before it happens. My linter |
-| 👁️ **Darkrai** | Nightmares and 3AM debugging sessions |
-| ❄️ **Weavile** | Fast and sharp, like a good refactor |
-| 🐱 **Meowscarada** | Showy, tricky, plays with illusions: front-end magic |
-| 🦅 **Yveltal** | Cosmic endgame boss, the final project |
 
 ## 🛰️ Tech Arsenal
 
@@ -88,18 +68,29 @@ q1: ───────────⊕────[M]      →  |00⟩ + |11�
 | ⚡ **[Pikachu New Version](https://github.com/NyxFeline/Pikachu_New_Version)** | Android Pikachu matching game, 19 levels, retro pixel style | `Java` `Android Studio` |
 | 🐾 **[Portfolio](https://github.com/NyxFeline/my-portfolio)** ([live](https://nyxfeline-dothieuvy.netlify.app/)) | Dark neon portfolio in vanilla HTML/CSS/JS with custom cursor, scroll reveal and parallax | `HTML` `CSS` `JavaScript` |
 
-## 📡 Mission Telemetry
+## 🌑 Shadow Party
+
+| Pokémon | Role in my universe |
+|---|---|
+| 🌙 **Umbreon** | The moonlit main. Calm, tanky, never panics during an outage |
+| 🐈‍⬛ **Liepard** | Stealth and sneaky exploits. The security-minded one |
+| 🔔 **Absol** | Senses disaster before it happens. My linter |
+| 👁️ **Darkrai** | Nightmares and 3AM debugging sessions |
+| ❄️ **Weavile** | Fast and sharp, like a good refactor |
+| 🐱 **Meowscarada** | Showy, tricky, plays with illusions: front-end magic |
+| 🦅 **Yveltal** | Cosmic endgame boss, the final project |
+
+## 🚀 Flight Plan
+
+| Orbit | Focus |
+|---|---|
+| 🛰️ **Now** | Fullstack web (React, Node, databases) and browser games with Phaser |
+| 🔭 **Learning** | Quantum computing basics with Qiskit, and cybersecurity (CTF, web security, pentest basics) |
+| 🌌 **Next** | More game jams, Godot projects, and deeper backend work |
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NyxFeline&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=7dd3fc&text_color=e0e7ff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyxFeline&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e0e7ff" />
-
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=NyxFeline&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=7dd3fc" />
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/NyxFeline/NyxFeline/output/github-snake-dark.svg" alt="contribution snake" />
 
