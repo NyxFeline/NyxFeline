@@ -14,7 +14,7 @@
 <img src="https://play.pokemonshowdown.com/sprites/ani/absol.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/darkrai.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/weavile.gif" height="64" />
-<img src="https://play.pokemonshowdown.com/sprites/ani/meowscarada.gif" height="64" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar-max.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/yveltal.gif" height="64" />
 
 </div>
