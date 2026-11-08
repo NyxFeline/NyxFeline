@@ -13,7 +13,6 @@
 <img src="https://play.pokemonshowdown.com/sprites/ani/liepard.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/absol.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/darkrai.gif" height="64" />
-<img src="https://play.pokemonshowdown.com/sprites/ani/gengar-gmax.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/weavile.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/meowscarada.gif" height="64" />
 <img src="https://play.pokemonshowdown.com/sprites/ani/yveltal.gif" height="64" />
@@ -49,7 +48,7 @@ q1: ───────────⊕────[M]      →  |00⟩ + |11�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,flask,java,androidstudio,docker,git,godot,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,flask,java,androidstudio,docker,git,linux,godot,postgres&theme=dark" />
 
 <br/><br/>
 
@@ -66,9 +65,21 @@ q1: ───────────⊕────[M]      →  |00⟩ + |11�
 | 🌙 **[Somnia Hotel](https://github.com/NyxFeline/somnia_hotel)** ([play](https://somniahotel.netlify.app/)) | 1-bit dream-hotel management game for 1Bit Game Jam (theme: Sleep). Strictly 2 colors, Bayer dithering, 3 endings, EN/VI | `Phaser 3` `Vite` `JavaScript` |
 | ⚙️ **[Assembly Panic](https://github.com/NyxFeline/assembly-panic)** ([play](https://assembly-panic.netlify.app/)) | Arcade game where you are the glitching machine: build robots by key sequence while the controls randomly reverse | `Phaser 3` `Vite` `JavaScript` |
 | 🎭 **[Costume Caper](https://github.com/NyxFeline/costume-caper)** ([play](https://costume-caper.netlify.app/)) | Pixel-art stealth adventure in a haunted mansion: swap disguises, collect keys, steal back the mask | `Phaser` `Vite` `Tiled` `Web Audio` |
+| 🌾 **[Hạt Vàng Landing Page](https://github.com/NyxFeline/hat-vang-landing-page)** <!-- SỬA: thêm ([live](link-demo)) nếu có --> | Landing page cho Hạt Vàng <!-- SỬA: mô tả ngắn 1 câu --> | `Landing Page` <!-- SỬA: stack thật --> |
 | ⚡ **[Pikachu New Version](https://github.com/NyxFeline/Pikachu_New_Version)** | Android Pikachu matching game, 19 levels, retro pixel style | `Java` `Android Studio` |
-| 🐾 **[Portfolio](https://github.com/NyxFeline/my-portfolio)** ([live](https://nyxfeline-dothieuvy.netlify.app/)) | Dark neon portfolio in vanilla HTML/CSS/JS with custom cursor, scroll reveal and parallax | `HTML` `CSS` `JavaScript` |
+| 🐾 **[Portfolio](https://github.com/NyxFeline/my-portfolio)** ([live](https://nyxfeline-dothieuvy.netlify.app/)) | Dark neon portfolio in vanilla HTML/CSS/JavaScript with custom cursor, scroll reveal and parallax | `HTML` `CSS` `JavaScript` |
 
+## 🌑 Shadow Party
+
+| Pokémon | Role in my universe |
+|---|---|
+| 🌙 **Umbreon** | The moonlit main. Calm, tanky, never panics during an outage |
+| 🐈‍⬛ **Liepard** | Stealth and sneaky exploits. The security-minded one |
+| 🔔 **Absol** | Senses disaster before it happens. My linter |
+| 👁️ **Darkrai** | Nightmares and 3AM debugging sessions |
+| ❄️ **Weavile** | Fast and sharp, like a good refactor |
+| 🐱 **Meowscarada** | Showy, tricky, plays with illusions: front-end magic |
+| 🦅 **Yveltal** | Cosmic endgame boss, the final project |
 
 ## 🚀 Flight Plan
 
